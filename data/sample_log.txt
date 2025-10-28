@@ -1,0 +1,4 @@
+2025-10-28 12:00:01 INFO User 192.168.1.1 logged in
+2025-10-28 12:01:02 WARNING Disk almost full
+2025-10-28 12:03:33 ERROR Could not connect to database
+2025-10-28 12:05:45 INFO User 10.0.0.3 logged out
